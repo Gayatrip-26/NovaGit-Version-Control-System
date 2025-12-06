@@ -212,7 +212,7 @@ All operations interact with MongoDB database.
 ![Signup (Localhost)](https://github.com/Gayatrip-26/NovaGit-Version-Control-System/blob/dd8ff6a976c6ca712dd39a04a1e67484a0b046ab/WhatsApp%20Image%202025-12-06%20at%2015.52.13_9fd53d21.jpg)
 <p align="center"><em>Localhost signup page for NovaGit user registration.</em></p>
 
-![GitHub-like Profile UI](https://github.com/Gayatrip-26/NovaGit-Version-Control-System/blob/dd8ff6a976c6ca712dd39a04a1e67484a0b046ab/WhatsApp%20Image%202025-12-06%20at%2015.51.30_55797a37.jpg)
+![GitHub-like Profile UI](https://github.com/Gayatrip-26/NovaGit-Version-Control-System/blob/7f52aaf266ea7abca32419b39f739204c58bc26a/WhatsApp%20Image%202025-12-06%20at%2015.52.53_d8ef173d.jpg)
 <p align="center"><em>Main NovaGit dashboard showing username, create repo option, profile menu, and heatmap.</em></p>
 
 ![Repository Creation Page](https://github.com/Gayatrip-26/NovaGit-Version-Control-System/blob/dd8ff6a976c6ca712dd39a04a1e67484a0b046ab/WhatsApp%20Image%202025-12-06%20at%2015.53.13_d60e3c3f.jpg)
