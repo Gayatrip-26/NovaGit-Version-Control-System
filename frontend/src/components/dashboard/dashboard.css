@@ -1,0 +1,31 @@
+
+*{
+  background-color: rgb(27, 26, 26);
+}
+#dashboard {
+  display: flex;
+  width: 1080px;
+  justify-content: space-between;
+  
+}
+.Navbar h4,h3,h2,p{
+  color: whitesmoke;
+}
+#search input {
+  background-color: white;    /* Makes the input box white */
+  color: black;               /* Text color */
+  border: 1px solid #ccc;     /* Light border */
+  padding: 10px;              /* Spacing inside */
+  width: 100%;                /* Full width */
+  border-radius: 8px;         /* Smooth rounded corners */
+  font-size: 16px;            /* Better text size */
+}
+
+#search input::placeholder {
+  color: #888;                /* Placeholder color */
+}
+
+#search input:focus {
+  outline: none;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
